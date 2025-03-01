@@ -1,0 +1,1 @@
+export const PRICE_HISTORY_INFERENCE_BYTECODE = '0x...'; // TODO: Add bytecode from Python SDK 
